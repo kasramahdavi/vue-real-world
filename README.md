@@ -1,4 +1,4 @@
-# real-word-vue
+# real-world-vue
 
 ## Project setup
 ```
